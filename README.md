@@ -1,3 +1,3 @@
 # Hello-world
-testing
-I lize Bitcoin and Tezos
+
+I like Bitcoin and Tezos
